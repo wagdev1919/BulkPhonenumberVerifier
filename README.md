@@ -11,3 +11,6 @@ BulkPhoneNumberVerifier is one of the most advanced tools to scan phone numbers 
 - Gather standard informations such as country, line type and carrier
 - Huge number of verification
 
+## Programming Languages
+- Python
+- Go
